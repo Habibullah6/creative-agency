@@ -7,7 +7,7 @@ const Footer = () => {
       sx={{
         backgroundColor: "#000000",
         color: "#fff",
-        padding: '1rem'
+        padding: '2rem'
       }}
     >
       <Box sx={{display: 'flex', justifyContent: 'space-between'}}>
